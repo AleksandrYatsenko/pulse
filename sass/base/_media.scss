@@ -1,0 +1,18 @@
+@media (max-width: 991px) {
+	.promo {
+		min-height: 500px;
+		padding-bottom: 70px;
+		&__wrapper {
+			margin-top: 70px;
+			align-items: center;
+		}
+	}
+	.advantages {
+		padding: 50px 0;
+		&__wrapper {
+			margin-top: 40px;
+			column-gap: 30px;
+		}
+	}
+	
+}
